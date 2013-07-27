@@ -1,3 +1,7 @@
 hello
 changed it
+<<<<<<< HEAD
 change again
+=======
+branch test
+>>>>>>> test
